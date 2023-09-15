@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DocOc98
 - 👀 I’m interested in Music, IT, Religion and meet nice people :)
-- 🌱 I’m currently learning NODE,Angular & MongoDB
-- 💞️ I’m looking to collaborate on webapps and software developing
+- 🌱 I’m currently learning Data Science
+- 💞️ I’m looking to collaborate on webapps, software developing and Data Analysis 
 - 📫 How to reach me: contact me by this media, or by linkedin `www.linkedin.com/in/hernanoctaviodelavega`
 
 <!---
